@@ -1,0 +1,5 @@
+n=int(input("enter the number"))
+p=0
+while p<=n:
+    print(p,end="")
+    p=p+1
