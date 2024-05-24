@@ -1,0 +1,8 @@
+def example1():
+    for i in range(11):
+        print("vijay",end='')
+def example2():
+    for i in range(11):
+        print(i,end='')
+    example2()
+    example1()
